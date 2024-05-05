@@ -83,6 +83,10 @@ li{
   margin-right: 50px;
   text-decoration: line-through;
 }
+input[type="checkbox"]:checked{
+  accent-color: green;
+}
+
 .text{
   flex: 1;
 }
